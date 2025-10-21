@@ -1,0 +1,9 @@
+{
+  "audio_root": "./audio",
+  "texts_root": "./text",
+  "outdir": "./output",
+  "val_fraction": 0.1,
+  "language": "en",
+  "extensions": [".wav", ".mp3", ".flac", ".m4a"],
+  "seed": 42
+}
